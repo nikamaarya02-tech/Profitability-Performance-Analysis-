@@ -1,0 +1,17 @@
+﻿sno.,Product Name,Sales,Gross Profit,Margin %,,Division,Total Sales,Gross Profit,Gross Margin (%)
+1,Everlasting Gobstopper,130,104,8000%,,Chocolate,"1,31,692.90","88,824.62",67.45
+2,Hair Toffee,76.5,59.5,77.8,,Other,"9,663.25","4,333.45",44.84
+3,Wonka Bar - Nutty Crunch Surprise,23574.95,16819.95,71.3,,Sugar,427.48,284.73,66.61
+4,Wonka Bar -Scrumdiddlyumptious,27874.8,19357.5,64.9,,,,,
+5,Wonka Bar - Fudge Mallows,24890.4,16593.6,58.5,,,,,
+6,Wonka Bar - Triple Dazzle Caramel,28485,18610.2,52.1,,Region,Total Sales,Gross Profit,
+7,Wonka Bar - Milk Chocolate,26867.75,17443.37,45.6,,Pacific,"46,301.53","30,485.94",
+8,Laffy Taffy,53.73,33.48,39.2,,Atlantic,"41,197.24","26,973.70",
+9,Fizzy Lifting Drinks,78.75,47.25,32.8,,Interior,"32,037.60","21,282.49",
+10,Wonka Gum,597.5,310.7,26.3,,Gulf,"22,247.26","14,700.67",
+,,,,,,,,,
+,,,,,,,,,
+Division,Total Sales,Gross Profit,Gross Margin (%),,,,,,
+Chocolate,"1,31,692.90","88,824.62",67.45,,,,,,
+Other,"9,663.25","4,333.45",44.84,,,,,,
+Sugar,427.48,284.73,66.61,,,,,,
